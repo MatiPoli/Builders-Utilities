@@ -25,10 +25,6 @@ commands:
     aliases: advfly
     description: Toggles Advanced fly.
     permission: builders.util.advancedfly
-  n:
-    aliases: nv
-    description: Toggles Nightvision.
-    permission: builders.util.nightvision
   /r:
     description: alias
     permission: builders.util.aliases

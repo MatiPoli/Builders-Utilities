@@ -60,7 +60,7 @@ public class CommandForwarder implements CommandExecutor {
         registerCommand(new ColorCommand(), "color", "ac", "armorcolor");
         registerCommand(new SecretBlockCommand(), "blocks", "secretblocks");
         registerCommand(new NoClipCommand(), "noclip", "nc");
-        registerCommand(new NightVisionCommand(), "nv", "nightvision", "n");
+        //registerCommand(new NightVisionCommand(), "nv", "nightvision", "n");
         registerCommand(new UtilsCommand(), "butil", "bu");
         registerCommand(new PosOneAliasCommand(), "/p1", "/1");
         registerCommand(new PosTwoAliasCommand(), "/p2", "/2");

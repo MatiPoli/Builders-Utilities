@@ -110,7 +110,7 @@ public final class BuildersUtilities extends JavaPlugin {
         getCommand("armorcolor").setExecutor(commandExecutor);
         getCommand("secretblocks").setExecutor(commandExecutor);
         getCommand("blocks").setExecutor(commandExecutor);
-        getCommand("n").setExecutor(commandExecutor);
+        //getCommand("n").setExecutor(commandExecutor);
         getCommand("nc").setExecutor(commandExecutor);
         getCommand("/cuboid").setExecutor(commandExecutor);
         getCommand("/convex").setExecutor(commandExecutor);
